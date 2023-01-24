@@ -1,3 +1,5 @@
-# 이것이 코딩 테스트다 (with 파이썬) 문제풀이
+# 알고리즘 문제풀이 정리노트 ┌( ಠ_ಠ)┘
 
-![image](https://user-images.githubusercontent.com/39821066/214313594-10fbe4e2-625b-47b2-ae81-cfaa3a61a052.png)
+✔️ 이것이 코딩 테스트다(with Python) 수록 문제 풀이
+
+✔️ 백준 유형별 문제 풀이
